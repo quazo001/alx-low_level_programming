@@ -10,7 +10,7 @@ int main(void)
 
 	int p;
 
-	for (p = 0; p < 5; p++)
+	for (p = 0; p < 8; p++)
 	{
 		_putchar(f[p]);
 	}
