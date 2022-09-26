@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * _memset - it fills a memory
  * @s: pointer to char params
