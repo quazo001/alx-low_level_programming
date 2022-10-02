@@ -1,3 +1,3 @@
-#!/bin/bash 8
-gcc -c *.c
-ar rc liball.a *.o
+#!/bin/bash
+gcc -Wall -pedantic -Werror -Wextra -c *.c
+ar -rc libmy.a *.o
